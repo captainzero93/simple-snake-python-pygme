@@ -81,7 +81,7 @@ Or download the self contained Windows build in Releases. ( Only do this if you 
 | ←  | Move Left |
 | →  | Move Right |
 
-RULES: YOu are the green snake, collect the fruit, do NOT backtrack on yourself or hit into yourself or the boundaries !
+RULES: You are the green snake, collect the fruit, do NOT backtrack on yourself or hit into yourself or the boundaries !
 
 ## Project Structure
 ```

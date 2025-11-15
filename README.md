@@ -1,6 +1,6 @@
 # .Py Snake Game 🐍
 
-A simple implementation of the classic Snake game built with Python and Pygame. Detailed manusal compile instructions. Building from source may work on Mac and Linux (untested). 
+A simple implementation of the classic Snake game built with Python and Pygame. Detailed mansal compile instructions. Building from source may work on Mac and Linux (untested). 
 
 
 <p style="text-align:center;">
@@ -16,7 +16,7 @@ A simple implementation of the classic Snake game built with Python and Pygame. 
 
 
 ## Features
-- Classic snake mechanics: eat food to grow longer
+- Classic snake mechanics: eat food to grow longer!
 - Arrow keys for movement (Up/Down/Left/Right)
 - Score tracking system
 - Game over when hitting walls or yourself

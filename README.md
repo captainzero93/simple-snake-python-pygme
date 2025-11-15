@@ -59,7 +59,7 @@ pip install -r requirements.txt
 
 or
 
-pip install --user pygame==2.6.1  # Install from PyPI ( recomended ) 
+pip install --user pygame==2.6.1  # Install from PyPI ( recommended ) 
 
 
 or

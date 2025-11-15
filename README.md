@@ -69,7 +69,7 @@ snake_game/
 ```
 
 ## Technical Details
-- Built using **Pygame 2.11** for cross-platform compatibility
+- Built using **Python 2.11** for compatibility with pygame
 - Uses a simple grid-based movement system
 - Score increases by 10 points per food item eaten
 - Game ends when snake collides with wall or itself

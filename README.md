@@ -89,9 +89,9 @@ RULES: You are the green snake, collect the fruit, do NOT backtrack on yourself 
 Extracted_files/
 ├── README.md                                              # This file
 ├── snake.py                                               # Main game logic
-├── Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png #Game screenshot for GIT Readme.MD 
+├── Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png #Game screenshot for GIT README.md  
 ├── LICENSE                                                # Auto-generated License 
-├── snake2.gif -                                           # Gameplay footage for GIT Readme.MD  
+├── snake2.gif -                                           # Gameplay footage for GIT README.md  
 ├── video-icon-13.png -                                    #Icon
 ├── requirments.txt -                                      #Requirments file for building
 ├── 

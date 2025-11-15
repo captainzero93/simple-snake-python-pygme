@@ -2,7 +2,7 @@
 
 A simple implementation of the classic Snake game built with Python and Pygame.
 
-[![Snake Game](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.jpg?raw=true)](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/snake2.mp4)
+<img src="https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.jpg?raw=true" width="128" height="128">[![Snake Game](](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/snake2.mp4)
 
 
 ## Features

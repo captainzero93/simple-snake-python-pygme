@@ -110,7 +110,7 @@ Extracted_files/
 - Uses a simple grid-based movement system
 - Score increases by a point per food item eaten
 - Game ends when snake collides with wall or itself
-- Only 139 lines of code - with comments!
+- Only 139 lines of code - including comments!
 
 ---
 

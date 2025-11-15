@@ -50,6 +50,7 @@ pip install --user "C:\Users\redacted\Desktop\sqwn\pygame-2.6.1-cp311-win_amd64.
 ```bash
 python snake.py
 ```
+Or download the self contained Windows build in Releases. ( Only do this if you trust the source)
 
 ### Controls
 | Key | Action |

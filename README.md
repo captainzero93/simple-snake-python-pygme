@@ -1,6 +1,6 @@
 # .Py Snake Game 🐍
 
-A simple implementation of the classic Snake game built with Python and Pygame. Building from source may work on Mac and Linux (untested).
+A simple implementation of the classic Snake game built with Python and Pygame. Building from source may work on Mac and Linux (untested). Detailed manusal compile instructions.
 
 
 <p style="text-align:center;">

@@ -30,6 +30,10 @@ A simple implementation of the classic Snake game built with Python and Pygame.
 ### Step 1: Create Virtual Environment
 ```bash
 python -m venv snake_venv
+
+# Create venv using Python 3.11 explicitly
+python -m venv snake_venv --system-site-packages
+
 ```
 
 ### Step 2: Activate Virtual Environment

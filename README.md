@@ -46,7 +46,6 @@ python -m venv snake_venv --system-site-packages
 # Windows (PowerShell):
 .\snake_venv\Scripts\activate.ps1
 
-Built for Pygame 2.6.1 and python 3.11 on Windows ( untested on linux )
 ```
 
 ### Step 3: Install Dependencies

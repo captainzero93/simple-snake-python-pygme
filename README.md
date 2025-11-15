@@ -112,7 +112,7 @@ The reccomended way to instal pygame-2.6.1-cp311-win-amd64.whl is pip install --
 
 
 Again, Windows users can use the Release .exe in the Releases section, ONLY do this if you trust the source, I recommend reading the code from this repo first.
-Refer to the documentatiom for your Linux Distro for unzipping and instaling the .PKG zip.
+Refer to the documentatiom for your Linux Distro for unzipping and instaling the .PKG zip / file.
 
 Version: 0.1 | Author: captainzero93 |
 

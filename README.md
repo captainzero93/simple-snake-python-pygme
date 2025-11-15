@@ -33,7 +33,6 @@ python -m venv snake_venv
 python -m venv snake_venv --system-site-packages
 
 # Create venv using Python 3.11 explicitly
-python -m venv snake_venv --system-site-packages
 
 ```
 
@@ -47,6 +46,10 @@ Built for Pygame 2.6.1 and python 3.11 on Windows ( untested on linux )
 
 ### Step 3: Install Dependencies
 ```bash
+
+pip install -r requirements.txt
+
+or
 
 pip install --user pygame==2.6.1  # Install from PyPI
 

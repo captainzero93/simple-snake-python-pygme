@@ -86,13 +86,13 @@ RULES: You are the green snake, collect the fruit, do NOT backtrack on yourself 
 ## Project Structure
 ```
 snake_game/
-├── README.md              # This file
-├── snake.py               # Main game logic
+├── README.md                                              # This file
+├── snake.py                                               # Main game logic
 ├── Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png #Game screenshot
-├── LICENSE # Auto-generated License 
-├── snake2.gif - Gameplay footage #
-├── video-icon-13.png - Icon #
-├── requirments.txt -Requirments file for building #
+├── LICENSE                                                # Auto-generated License 
+├── snake2.gif -                                           # Gameplay footage 
+├── video-icon-13.png -                                    #Icon
+├── requirments.txt -                                      #Requirments file for building
 ├── .gitignore - Allows release files over 25 mb, the game is just below 30mb compiled
      
 ```

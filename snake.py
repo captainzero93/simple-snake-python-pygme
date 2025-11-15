@@ -25,7 +25,7 @@ snake_speed = 15
 font_style = pygame.font.SysFont("bahnschrift", 25)
 score_font = pygame.font.SysFont("comicsansms", 35)
 
-def your_score(score, alpha=255):
+def your_score(score, alpha=150):
     value = score_font.render("Your Score: " + str(score), True, WHITE)
     value.set_alpha(alpha)
     screen.blit(value, [0, 0])
@@ -137,3 +137,4 @@ def game_loop():
     quit()
 
 game_loop()
+

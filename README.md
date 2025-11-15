@@ -108,6 +108,8 @@ Extracted_files/
 ---
 
 **Note**: This implementation requires the precompiled wheel file (`pygame-2.6.1-cp311-win_amd64.whl`) due to Windows-specific build requirements. Do not attempt to compile from source on Python 3.12+ as it will fail.
+The reccomended way to instal pygame-2.6.1-cp311-win-amd64.whl is pip install --user pygame==2.6.1  # Install from PyPI
+
 
 Again, Windows users can use the Release .exe in the Releases section, ONLY do this if you trust the source, I recommend reading the code from this repo first.
 

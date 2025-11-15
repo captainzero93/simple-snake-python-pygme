@@ -45,6 +45,7 @@ Built for Pygame 2.6.1 and python 3.11 on Windows ( untested on linux )
 
 pip install --user pygame==2.6.1  # Install from PyPI
 
+
 or
 
 pip install --user "C:\Users\redacted\Desktop\sqwn\pygame-2.6.1-cp311-win_amd64.whl"

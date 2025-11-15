@@ -64,7 +64,7 @@ pip install --user pygame==2.6.1  # Install from PyPI
 
 or
 
-pip install --user <b> "folder_with_pygame.whl package\pygame-2.6.1-cp311-win_amd64.whl " </b>
+pip install --user  "<b> folder_with_pygame.whl package\pygame-2.6.1-cp311-win_amd64.whl </b>" 
 ```
 
 > ⚠️ **Important**: The wheel file requires Python 3.11. If you're using a different version, download the correct wheel or install from source.

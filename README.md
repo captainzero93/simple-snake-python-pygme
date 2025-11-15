@@ -88,6 +88,7 @@ snake_game/
 ├── snake2.gif - Gameplayfootage #
 ├── video-icon-13.png - Icon #
 ├── requirments.txt -Requirmentsfile for building #
+├── .gitignore - Allows release files over 25 mg, the games is just below 30mb compiled
      
 ```
 

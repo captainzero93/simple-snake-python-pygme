@@ -4,7 +4,7 @@ A simple implementation of the classic Snake game built with Python and Pygame.
 
 <p style="text-align:center;">
   <span style="display:inline-flex; align-items:center; gap:10px;">
-    <img src="https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.jpg?raw=true" width="128" height="128">
+    <img src="https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.jpg?raw=true" width="64" height="64">
     <a href="https://github.com/captainzero93/simple-snake-python-pygme/blob/main/snake2.mp4">[Gameplay Video]</a>
   </span>
 </p>

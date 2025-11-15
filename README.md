@@ -25,7 +25,8 @@ A simple implementation of the classic Snake game built with Python and Pygame. 
 ## Requirements
 - **Python 3.11** (required for precompiled wheel compatibility)
 - Pygame (`pygame==2.6.1`)
-
+- all other requirments are in the requirments.txt even if they are not needed
+   
 ## Installation & Setup
 ### Step 1: Create Virtual Environment / Clone repo
 

@@ -84,10 +84,10 @@ snake_game/
 ├── README.md              # This file
 ├── snake.py               # Main game logic
 ├── Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png #Game screenshot
-├── LICENSE # Auto-generated Liscene 
-├── snake2.gif - Gameplayfootage #
+├── LICENSE # Auto-generated License 
+├── snake2.gif - Gameplay footage #
 ├── video-icon-13.png - Icon #
-├── requirments.txt -Requirmentsfile for building #
+├── requirments.txt -Requirments file for building #
 ├── .gitignore - Allows release files over 25 mg, the games is just below 30mb compiled
      
 ```

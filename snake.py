@@ -33,8 +33,9 @@ def our_snake(snake_block, snake_list):
     for x in snake_list:
         pygame.draw.rect(screen, GREEN, [x[0], x[1], snake_block, snake_block])
 
-def message(msg, color):
+def message(msg, color, alpha=150):
     mesg = font_style.render(msg, True, color)
+    mesg.set_alpha(alpha)  # Set transparency (0-255, where 0 is fully transparent)
     screen.blit(mesg, [WIDTH / 6, HEIGHT / 3])
 
 def game_loop():
@@ -135,3 +136,4 @@ def game_loop():
     quit()
 
 game_loop()
+

@@ -2,7 +2,7 @@
 
 A simple implementation of the classic Snake game built with Python and Pygame. Detailed manual compile instructions. Building from source may work on Mac and Linux - added a beta .PKG build Linux (untested). 
 
-
+Screenshot:
 <p style="text-align:center;">
   <img src="Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png" width="228" height="128" style="vertical-align:middle;">
 </p>

@@ -25,8 +25,9 @@ snake_speed = 15
 font_style = pygame.font.SysFont("bahnschrift", 25)
 score_font = pygame.font.SysFont("comicsansms", 35)
 
-def your_score(score):
+def your_score(score, alpha=255):
     value = score_font.render("Your Score: " + str(score), True, WHITE)
+    value.set_alpha(alpha)
     screen.blit(value, [0, 0])
 
 def our_snake(snake_block, snake_list):
@@ -35,7 +36,7 @@ def our_snake(snake_block, snake_list):
 
 def message(msg, color, alpha=150):
     mesg = font_style.render(msg, True, color)
-    mesg.set_alpha(alpha)  # Set transparency (0-255, where 0 is fully transparent)
+    mesg.set_alpha(alpha)
     screen.blit(mesg, [WIDTH / 6, HEIGHT / 3])
 
 def game_loop():
@@ -63,8 +64,8 @@ def game_loop():
         # Game over screen
         while game_close:
             screen.fill(BLACK)
-            message("Game Over! Press Q-Quit or C-Play Again", RED)
-            your_score(length_of_snake - 1)
+            message("Game Over! Press Q-Quit or C-Play Again", RED, 150)
+            your_score(length_of_snake - 1, 150)  # Added alpha=150 for transparency
             pygame.display.update()
 
             for event in pygame.event.get():
@@ -120,7 +121,7 @@ def game_loop():
                 game_close = True
 
         our_snake(snake_block, snake_list)
-        your_score(length_of_snake - 1)
+        your_score(length_of_snake - 1, 255)  # Keep opaque during gameplay, or use 200 for slight transparency
 
         pygame.display.update()
 
@@ -136,4 +137,3 @@ def game_loop():
     quit()
 
 game_loop()
-

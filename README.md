@@ -19,7 +19,7 @@ A simple implementation of the classic Snake game built with Python and Pygame. 
 - Classic snake mechanics: eat food to grow longer!
 - Arrow keys for movement (Up/Down/Left/Right)
 - Score tracking system
-- Game over when hitting walls or yourself
+- Game over when hitting walls ( window boundaries ) or yourself
 - Simple, clean UI with color-coded elements
 
 ## Requirements

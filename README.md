@@ -71,6 +71,10 @@ Or download the self contained Windows build in Releases. ( Only do this if you 
 snake_game/
 ├── README.md              # This file
 ├── snake.py               # Main game logic
+├── Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png #Game screenshot
+├── LICENSE # Auto-generated Liscene 
+├── snake2.gif - Gameplayfootage #
+├── video-icon-13.png - Icon #
           
 ```
 

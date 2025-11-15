@@ -87,7 +87,8 @@ snake_game/
 ├── LICENSE # Auto-generated Liscene 
 ├── snake2.gif - Gameplayfootage #
 ├── video-icon-13.png - Icon #
-          
+├── requirments.txt -Requirmentsfile for building #
+     
 ```
 
 ## Technical Details

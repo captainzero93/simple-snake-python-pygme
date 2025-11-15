@@ -37,10 +37,16 @@ python -m venv snake_venv
 # Windows (PowerShell):
 .\snake_venv\Scripts\activate.ps1
 
+Built for 2.6.1
 ```
 
 ### Step 3: Install Dependencies
 ```bash
+
+pip install --user pygame==2.6.1  # Install from PyPI
+
+or
+
 pip install --user "C:\Users\redacted\Desktop\sqwn\pygame-2.6.1-cp311-win_amd64.whl"
 ```
 

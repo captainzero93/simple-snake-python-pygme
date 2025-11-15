@@ -1,4 +1,4 @@
-# .Py Snake Game 🐍
+# .Py Snake Game 🐍 - Pygame
 
 A simple implementation of the classic Snake game built with Python and Pygame. Detailed manual compile instructions. Building from source may work on Mac and Linux - added a beta .PKG build Linux (untested). 
 

@@ -2,6 +2,8 @@
 
 A simple implementation of the classic Snake game built with Python and Pygame.
 
+[![Gameplay](https://via.placeholder.com/1280x720/333333/FFFFFF?text=Video+Preview)](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/snake2.mp4)
+
 ## Features
 - Classic snake mechanics: eat food to grow longer
 - Arrow keys for movement (Up/Down/Left/Right)

@@ -87,4 +87,9 @@ snake_game/
 ---
 
 **Note**: This implementation requires the precompiled wheel file (`pygame-2.6.1-cp311-win_amd64.whl`) due to Windows-specific build requirements. Do not attempt to compile from source on Python 3.12+ as it will fail.
+
 Again, Windows users can use the Release .exe in the Releases section, ONLY do this if you trust the source, I recommend reading the code from this repo first.
+
+Version: 0.1 | Author: captainzero93 |
+
+GitHub: https://github.com/captainzero93/simple-snake-python-pygme

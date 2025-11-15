@@ -30,7 +30,7 @@ Screenshot:
 ## Manual installation & Setup
 ### Step 1: Create Virtual Environment / Clone repo
 
-Download and extract this repo, Install Python 11 - ensire you check 'Add to path in the installer. Open CMD from the extracted folder;
+< b >Download and extract this repo, Install Python 11 - ensire you check 'Add to path in the installer. Open CMD from the extracted folder; < /b >
 
 ```bash
 python -m venv snake_venv

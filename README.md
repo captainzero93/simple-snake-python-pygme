@@ -105,7 +105,7 @@ Extracted_files/
 - Score increases by a point per food item eaten
 - Game ends when snake collides with wall or itself
 - Only 139 lines of code!
-- 
+
 ---
 
 **Note**: This implementation requires the precompiled wheel file (`pygame-2.6.1-cp311-win_amd64.whl`) due to Windows-specific build requirements. Do not attempt to compile from source on Python 3.12+ as it will fail.

@@ -94,6 +94,7 @@ Extracted_files/
 ├── snake2.gif -                                           # Gameplay footage for GIT README.md  
 ├── video-icon-13.png -                                    #Icon
 ├── requirments.txt -                                      #Requirments file for building
+├── LICENSE                                                # Apache 2.0 compatible attribution notice
 ├── 
 ├── .gitignore - Allows release files over 25 mb, the game is just below 30mb compiled
      

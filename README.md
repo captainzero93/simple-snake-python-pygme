@@ -4,7 +4,7 @@ A simple implementation of the classic Snake game built with Python and Pygame.
 
 
 <p style="text-align:center;">
-  <img src="Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png" width="228" height="84" style="vertical-align:middle;">
+  <img src="Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png" width="228" height="128" style="vertical-align:middle;">
 </p>
 
 <p style="text-align:center;">

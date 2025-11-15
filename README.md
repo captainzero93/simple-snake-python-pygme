@@ -82,7 +82,7 @@ Or download the self contained Windows ( or beta Linux .PKG) build in Releases. 
 | ←  | Move Left |
 | →  | Move Right |
 
-RULES: You are the green snake, collect the fruit, do NOT backtrack on yourself or hit into yourself or the boundaries ( Window edges ) !
+<b> RULES: </b> You are the green snake, collect the fruit, do NOT backtrack on yourself or hit into yourself or the boundaries ( Window edges ) !
 
 ## Project Structure
 ```

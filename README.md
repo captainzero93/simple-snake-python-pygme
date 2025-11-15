@@ -126,6 +126,8 @@ Refer to the documentatiom for your Linux Distro for unzipping and instaling the
 This project is licensed under Apache 2.0. See the [NOTICE](NOTICE) file for 
 specific attribution requirements when creating derivative works.
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/captainzero)
+
 Version: 0.3 | Author: captainzero93 |
 
 GitHub: https://github.com/captainzero93/

@@ -4,12 +4,12 @@ A simple implementation of the classic Snake game built with Python and Pygame.
 
 
 <p style="text-align:center;">
-  <img src="Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png" width="64" height="64" style="vertical-align:middle;">
+  <img src="Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png" width="228" height="84" style="vertical-align:middle;">
 </p>
 
 <p style="text-align:center;">
   <span style="display:inline-flex; align-items:center; gap:10px;">
-    <img src="[[[https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.jpg?raw=true](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/Desktop%20Screenshot%202025.11.15%20-%2001.50.30.55%20-%20Copy.png?raw=true)](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.png?raw=true)](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/Desktop%20Screenshot%202025.11.15%20-%2001.50.30.55%20-%20Copy.png?raw=true)]" width="12" height="12">
+    <img src="[[https://github.com/captainzero93/simple-snake-python-pygme/blob/main/video-icon-13.jpg?raw=true](https://github.com/captainzero93/simple-snake-python-pygme/blob/main/Desktop%20Screenshot%202025.11.15%20-%2001.50.30.55%20-%20Copy.png?raw=true)]" width="12" height="12">
     <a href="https://github.com/captainzero93/simple-snake-python-pygme/blob/main/snake2.mp4">[Gameplay Video]</a>
   </span>
 </p>

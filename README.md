@@ -27,7 +27,10 @@ A simple implementation of the classic Snake game built with Python and Pygame. 
 - Pygame (`pygame==2.6.1`)
 
 ## Installation & Setup
-### Step 1: Create Virtual Environment
+### Step 1: Create Virtual Environment / Clone repo
+
+Download and extract this repo, open CMD from the extracted folder.
+
 ```bash
 python -m venv snake_venv
 python -m venv snake_venv --system-site-packages

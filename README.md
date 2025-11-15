@@ -49,10 +49,10 @@ python snake.py
 ### Controls
 | Key | Action |
 |-----|--------|
-| ↑   | Move Up |
-| ↓   | Move Down |
-| ←   | Move Left |
-| →   | Move Right |
+| ↑ / w  | Move Up |
+| ↓ / s  | Move Down |
+| ← / a  | Move Left |
+| → / d | Move Right |
 
 ## Project Structure
 ```

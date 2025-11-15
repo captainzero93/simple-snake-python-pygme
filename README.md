@@ -85,7 +85,7 @@ RULES: You are the green snake, collect the fruit, do NOT backtrack on yourself 
 
 ## Project Structure
 ```
-snake_game/
+Extracted_files/
 ├── README.md                                              # This file
 ├── snake.py                                               # Main game logic
 ├── Desktop Screenshot 2025.11.15 - 01.50.30.55 - Copy.png #Game screenshot

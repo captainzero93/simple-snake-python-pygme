@@ -73,10 +73,10 @@ Or download the self contained Windows build in Releases. ( Only do this if you 
 ### Controls
 | Key | Action |
 |-----|--------|
-| ↑ /  | Move Up |
-| ↓ /  | Move Down |
-| ← /  | Move Left |
-| → /  | Move Right |
+| ↑  | Move Up |
+| ↓  | Move Down |
+| ←  | Move Left |
+| →  | Move Right |
 
 ## Project Structure
 ```

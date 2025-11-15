@@ -72,7 +72,7 @@ From inside the folder snake.py exists;
 python snake.py
 
 ```
-Or download the self contained Windows ( or Linux .PKG) build in Releases. ( Only do this if you trust the source)
+Or download the self contained Windows ( or barta Linux .PKG) build in Releases. ( Only do this if you trust the source)
 
 ### Controls
 | Key | Action |

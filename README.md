@@ -26,7 +26,9 @@ Screenshot:
 - **Python 3.11** (required for precompiled wheel compatibility)
 - Pygame (`pygame==2.6.1`)
 - all other requirments are in the requirments.txt even if they are not needed
-   
+
+ ## Compiled setup - Windows users can use the Release .exe in the Releases section, ONLY do this if you trust the source, I recommend reading the code from this repo first. Refer to the documentatiom for your Linux Distro for unzipping and instaling the .PKG zip / file. There is also a beta Linux .PKG.
+  
 ## Manual installation & Setup
 ### Step 1: Create Virtual Environment / Clone repo
 

@@ -116,4 +116,4 @@ Refer to the documentatiom for your Linux Distro for unzipping and instaling the
 
 Version: 0.1 | Author: captainzero93 |
 
-GitHub: https://github.com/captainzero93/simple-snake-python-pygme
+GitHub: https://github.com/captainzero93/

@@ -17,16 +17,17 @@ WIDTH, HEIGHT = 600, 400
 # Set up display
 screen = pygame.display.set_mode((WIDTH, HEIGHT))
 pygame.display.set_caption('Snake Game')
-
 clock = pygame.time.Clock()
+
 snake_block = 10
 snake_speed = 15
 
-font_style = pygame.font.SysFont("bahnschrift", 25)
-score_font = pygame.font.SysFont("comicsansms", 35)
+font_style = pygame.font.SysFont("bahnschrift", 12)
+score_font = pygame.font.SysFont("comicsansms", 17)
 
 def your_score(score, alpha=150):
     value = score_font.render("Your Score: " + str(score), True, WHITE)
+    value = value.convert_alpha()
     value.set_alpha(alpha)
     screen.blit(value, [0, 0])
 
@@ -36,6 +37,7 @@ def our_snake(snake_block, snake_list):
 
 def message(msg, color, alpha=150):
     mesg = font_style.render(msg, True, color)
+    mesg = mesg.convert_alpha()
     mesg.set_alpha(alpha)
     screen.blit(mesg, [WIDTH / 6, HEIGHT / 3])
 
@@ -60,12 +62,11 @@ def game_loop():
     foody = round(random.randrange(0, HEIGHT - snake_block) / 10.0) * 10.0
 
     while not game_over:
-
         # Game over screen
         while game_close:
             screen.fill(BLACK)
             message("Game Over! Press Q-Quit or C-Play Again", RED, 150)
-            your_score(length_of_snake - 1, 150)  # Added alpha=150 for transparency
+            your_score(length_of_snake - 1, 150)
             pygame.display.update()
 
             for event in pygame.event.get():
@@ -121,8 +122,7 @@ def game_loop():
                 game_close = True
 
         our_snake(snake_block, snake_list)
-        your_score(length_of_snake - 1, 255)  # Keep opaque during gameplay, or use 200 for slight transparency
-
+        your_score(length_of_snake - 1, 255)
         pygame.display.update()
 
         # Food collision
@@ -137,4 +137,3 @@ def game_loop():
     quit()
 
 game_loop()
-

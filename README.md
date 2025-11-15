@@ -34,9 +34,10 @@ Screenshot:
 
 ```bash
 python -m venv snake_venv
-python -m venv snake_venv --system-site-packages
 
-# Create venv using Python 3.11 explicitly
+or Create venv using Python 3.11 explicitly:
+
+python -m venv snake_venv --system-site-packages
 
 ```
 

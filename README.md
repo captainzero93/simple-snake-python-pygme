@@ -1,6 +1,6 @@
 # .Py Snake Game 🐍
 
-A simple implementation of the classic Snake game built with Python and Pygame. Detailed mansal compile instructions. Building from source may work on Mac and Linux (untested). 
+A simple implementation of the classic Snake game built with Python and Pygame. Detailed manual compile instructions. Building from source may work on Mac and Linux (untested). 
 
 
 <p style="text-align:center;">
@@ -27,7 +27,7 @@ A simple implementation of the classic Snake game built with Python and Pygame. 
 - Pygame (`pygame==2.6.1`)
 - all other requirments are in the requirments.txt even if they are not needed
    
-## Installation & Setup
+## Manual installation & Setup
 ### Step 1: Create Virtual Environment / Clone repo
 
 Download and extract this repo, Install Python 11 - ensire you check 'Add to path in the installer. Open CMD from the extracted folder;
@@ -72,7 +72,7 @@ From inside the folder snake.py exists;
 python snake.py
 
 ```
-Or download the self contained Windows build in Releases. ( Only do this if you trust the source)
+Or download the self contained Windows ( or Linux .PKG) build in Releases. ( Only do this if you trust the source)
 
 ### Controls
 | Key | Action |

@@ -2,7 +2,7 @@
 
 [![Version](https://img.shields.io/badge/Version-0.3-green.svg)]() 
 
-A simple implementation of the classic Snake game built with Python and Pygame. Detailed manual compile instructions. Building from source may work on Mac and Linux - added a beta .PKG build for Linux (untested). 
+A simple tutorial implementation of the classic Snake game built with Python and Pygame. Detailed manual compile instructions. Building from source may work on Mac and Linux - added a beta .PKG build for Linux (untested). 
 
 Screenshot:
 <p style="text-align:center;">

@@ -6,7 +6,7 @@ A simple tutorial implementation of the classic Snake game built with Python and
 
 check out Pygame Snake here: https://github.com/captainzero93/simple-snake-python-pygme
 
-check out Pygame ANSCII Tetris here: https://github.com/captainzero93/Anscii-Tetris-PYGAME
+check out Pygame ASCII Tetris here: https://github.com/captainzero93/ASCII-Tetris
 
 Screenshot:
 <p style="text-align:center;">

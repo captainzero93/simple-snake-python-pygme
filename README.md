@@ -4,7 +4,9 @@
 
 A simple tutorial implementation of the classic Snake game built with Python and Pygame. Detailed manual compile instructions. Building from source may work on Mac and Linux - added a beta .PKG build for Linux (untested). 
 
-Check out Anscii flappy bird here: https://github.com/captainzero93/flappy-ascii-PYGAME
+check out Pygame Snake here: https://github.com/captainzero93/simple-snake-python-pygme
+
+check out Pygame ANSCII Tetris here: https://github.com/captainzero93/Anscii-Tetris-PYGAME
 
 Screenshot:
 <p style="text-align:center;">
